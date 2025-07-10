@@ -1,2 +1,3 @@
 project 1 ("sum of digits in a number" from newtonschool course)
-project 2 ("get input for the variables name,score and print the name and the score should be divided by 10")
+project 2 ("Get input for the variables name,score and print the name and the score should be divided by 10")
+project 3 ("Get input for the variable a ,print if input is divisible by 3 or not and the input is even number or odd number.")
