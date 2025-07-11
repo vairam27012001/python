@@ -4,5 +4,3 @@ project 3 ("Get input for the variable a ,print if input is divisible by 3 or no
 project 4 (mini calculator)
 project 5 (loan eligibility)
 project 6 (Get integer input from user 10 times and find sum and average)
-project 7 (functions) 
-
