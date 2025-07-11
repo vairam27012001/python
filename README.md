@@ -3,3 +3,4 @@ project 2 ("Get input for the variables name,score and print the name and the sc
 project 3 ("Get input for the variable a ,print if input is divisible by 3 or not and the input is even number or odd number.")
 project 4 (mini calculator)
 project 5 (loan eligibility)
+project 6 (Get integer input from user 10 times and find sum and average)
