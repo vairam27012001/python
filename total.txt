@@ -1,1 +1,34 @@
-10
+1️⃣ Check Positive or Negative
+2️⃣ Even or Odd
+3️⃣ Find the greater of two numbers
+4️⃣ Find the greatest of three numbers
+5️⃣ Check if number is divisible by 5
+6️⃣ Check if number is between 1 to 100
+7️⃣ Check if a character is a vowel or consonant
+8️⃣ Check if a year is a leap year
+9️⃣ Check if input is alphabet or not
+🔟 Check if number is multiple of both 3 and 5
+
+1️⃣1️⃣ Check if age is eligible for voting (age ≥ 18)
+1️⃣2️⃣ Check if student passed (marks ≥ 35)
+1️⃣3️⃣ Check if a number is zero, positive, or negative
+1️⃣4️⃣ Print "small", "medium", "large" based on number (use if-elif-else)
+1️⃣5️⃣ Check if a string is palindrome
+
+
+1️⃣6️⃣ Check if a number is positive and even
+1️⃣7️⃣ Check if a number is positive and odd
+1️⃣8️⃣ If age ≥ 18 check license eligibility, else check school ID status
+1️⃣9️⃣ If mark ≥ 90 → Grade A, ≥75 → B, ≥50 → C, else Fail
+2️⃣0️⃣ Check triangle type: Equilateral, Isosceles, Scalene
+2️⃣1️⃣ Check if sides form a valid triangle (sum of two sides > third side)
+2️⃣2️⃣ Check if a character is uppercase, lowercase, or special character
+2️⃣3️⃣ Check if number is 3-digit and divisible by 7
+2️⃣4️⃣ If salary > 50000 check bonus, else check overtime pay
+2️⃣5️⃣ Check if input is number or string (use .isdigit())
+
+2️⃣6️⃣ Find maximum of four numbers (nested if)
+2️⃣7️⃣ Find roots of quadratic equation (real or imaginary)
+2️⃣8️⃣ Check voting eligibility and check if age is > 60 (senior citizen)
+2️⃣9️⃣ ATM check: if balance > withdrawal, allow; else insufficient balance
+3️⃣0️⃣ Simple calculator using if-elif-else (add, sub, mul, div)
